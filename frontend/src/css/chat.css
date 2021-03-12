@@ -1,0 +1,43 @@
+.chats {
+   padding: 110px 80px 0px 60px;
+   text-align: left;
+   height: 100vh;
+}
+
+.chats h2 {
+   width: auto;
+}
+
+Row {
+   margin-left: 0px;
+}
+
+.chats Button {
+   width: 240px;
+   height: 60px;
+   background-color: transparent;
+}
+
+.chats input {
+   padding-left: 50px;
+   margin-bottom: 20px;
+   width: 580px;
+   height: 70px;
+   font-size: 20px;
+   border: none;
+   border-radius: 6px;
+}
+
+.messageCard h3 {
+   margin-top: 12px;
+   margin-bottom: 10px;
+   font-size: 18px;
+   font-weight: 700;
+   color: #0D1C2E;
+}
+
+Button img {
+   margin-top: -28px;
+   margin-left: -34px;
+}
+

@@ -4,7 +4,7 @@ import '../css/sidenav.css'
 import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 
 import Home from '../components/home';
-import { Chat } from './chat';
+import { Chat } from './chat/chat';
 import { Groups } from './groups';
 import { Explore } from './explore';
 import { Calender } from './calender';

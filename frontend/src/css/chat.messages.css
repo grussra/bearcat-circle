@@ -1,0 +1,6 @@
+.chatMessages {
+   height: 1000px;
+   overflow-y: hidden;
+   width: 850px;
+   z-index: 0;
+}

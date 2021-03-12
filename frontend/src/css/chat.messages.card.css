@@ -1,0 +1,31 @@
+.chatMessagesCard {
+   width: 580px;
+   height: 220px;
+   border-radius: 6px;
+   margin-bottom: 20px;
+}
+
+.chatMessagesCard img {
+   margin-left: 40px;
+   margin-top: 30px;
+}
+
+.chatMessagesCard h1, h3, h5 {
+   margin: 0;
+   overflow-y: hidden;
+}
+
+.chatMessagesCard h3 {
+   margin-top: 33px;
+   font-size: 18px;
+   font-weight: 700;
+   color: #0D1C2E;
+}
+
+.chatMessagesCard h5 {
+   margin-top: 10px;
+   font-size: 15px;
+   font-weight: 500;
+   line-height: 30px;
+   color: #707C97;
+}
